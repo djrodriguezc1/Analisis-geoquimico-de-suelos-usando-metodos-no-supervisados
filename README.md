@@ -34,7 +34,8 @@ La base de datos unificada de suelos superficiales contiene inicialmente 540 reg
 
 # 9 componentes principales 
 
-![imagen](https://user-images.githubusercontent.com/92902914/192127369-a748780b-5631-4f2a-88ea-0c1fbbc78021.png)
+![imagen](https://user-images.githubusercontent.com/92902914/192152233-70fcd4ee-df28-4607-8fba-225b3503f303.png)
+
 
 # Dendograma
 
@@ -72,7 +73,7 @@ La base de datos unificada de suelos superficiales contiene inicialmente 540 reg
 
 # Correlación entre cluster y variables
 
-[Excel correlación entre cluster aglomerativo y variables]()https://github.com/djrodriguezc1/Analisis-geoquimico-de-suelos-usando-metodos-no-supervisados/blob/main/Correlaci%C3%B3n%20cluster%20y%20variables/corr_mat13_g.xlsx
+[Excel correlación entre cluster aglomerativo y variables](https://github.com/djrodriguezc1/Analisis-geoquimico-de-suelos-usando-metodos-no-supervisados/blob/main/Correlaci%C3%B3n%20cluster%20y%20variables/corr_mat13_g.xlsx)
 
 # Grafica plotly con los cluster aglomerativo 
 

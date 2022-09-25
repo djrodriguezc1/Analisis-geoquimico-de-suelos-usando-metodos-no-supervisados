@@ -68,7 +68,11 @@ La base de datos unificada de suelos superficiales contiene inicialmente 540 reg
 
 # Codigo
 
-[Codigo]()
+[Codigo](https://github.com/djrodriguezc1/Analisis-geoquimico-de-suelos-usando-metodos-no-supervisados/blob/main/Codigo/suelos_p.ipynb)
+
+# Base de datos con los cluster finales
+
+[Base de datos cluster]()
 
 # Informe final
 

@@ -48,7 +48,7 @@ La base de datos unificada de suelos superficiales contiene inicialmente 540 reg
 
 ![imagen](https://user-images.githubusercontent.com/92902914/192127328-a6f49425-4376-42fb-8073-9f05f3d87985.png)
 
-![imagen](https://user-images.githubusercontent.com/92902914/192127621-78f78fbb-7b23-4fca-bf42-c69fab79c1f5.png)
+![imagen](https://user-images.githubusercontent.com/92902914/192127643-16b740fc-1b3b-457a-90b8-a828bb1b6f6c.png)
 
 
 # Mapa web con las 536 muestras geoquímicas de suelos

@@ -41,11 +41,14 @@ La base de datos unificada de suelos superficiales contiene inicialmente 540 reg
 
 # 13 cluster con el metodo aglomerativo
 
-![imagen](https://user-images.githubusercontent.com/92902914/192127268-1b6d0c8c-cd1e-4be7-9af7-aac2a9004a17.png)
+![imagen](https://user-images.githubusercontent.com/92902914/192127592-8be93915-41b7-4837-972e-245fe231c7ec.png)
 
-# Correlación de los 13 cluster con los minerales indicadores
+
+# Correlación de los 13 cluster con los elementos y oxidos
 
 ![imagen](https://user-images.githubusercontent.com/92902914/192127328-a6f49425-4376-42fb-8073-9f05f3d87985.png)
+
+![imagen](https://user-images.githubusercontent.com/92902914/192127621-78f78fbb-7b23-4fca-bf42-c69fab79c1f5.png)
 
 
 # Mapa web con las 536 muestras geoquímicas de suelos

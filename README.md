@@ -70,9 +70,19 @@ La base de datos unificada de suelos superficiales contiene inicialmente 540 reg
 
 [Codigo](https://github.com/djrodriguezc1/Analisis-geoquimico-de-suelos-usando-metodos-no-supervisados/blob/main/Codigo/suelos_p.ipynb)
 
+# Correlación entre cluster y variables
+
+[Excel correlación entre cluster aglomerativo y variables]()
+
+# Grafica plotly con los cluster aglomerativo y dbscan
+
+[Grafica 3d cluster aglomerativo]()
+
+[Grafica 3d cluster DBSCAN]()
+
 # Base de datos con los cluster finales
 
-[Base de datos cluster]()
+[Base de datos cluster](https://github.com/djrodriguezc1/Analisis-geoquimico-de-suelos-usando-metodos-no-supervisados/blob/main/Base%20de%20datos%20final/base_clusters13_n.xlsx)
 
 # Informe final
 

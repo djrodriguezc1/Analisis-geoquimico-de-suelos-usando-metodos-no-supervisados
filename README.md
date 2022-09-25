@@ -38,7 +38,9 @@ La base de datos unificada de suelos superficiales contiene inicialmente 540 reg
 
 
 
-[Mapa con todos los cluster](https://github.com/djrodriguezc1/Analisis-geoquimico-de-suelos-usando-metodos-no-supervisados/blob/main/Mapas%20suelos%20y%20cluster/pathfinders_Total.png)
+[Mapa con todos los cluster![pathfinders_Total](https://user-images.githubusercontent.com/92902914/192126964-e519b518-fa13-4e46-86a5-ac420be1f990.png)
+
+[uster](https://github.com/djrodriguezc1/Analisis-geoquimico-de-suelos-usando-metodos-no-supervisados/blob/main/Mapas%20suelos%20y%20cluster/pathfinders_Total.png)
 
 #Mapa con los cluster principales
 

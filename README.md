@@ -36,11 +36,10 @@ La base de datos unificada de suelos superficiales contiene inicialmente 540 reg
 
 # Mapa con todos los cluster
 
-[Mapa con todos los cluster![pathfinders_Total](https://user-images.githubusercontent.com/92902914/192126964-e519b518-fa13-4e46-86a5-ac420be1f990.png)
+![pathfinders_Total](https://user-images.githubusercontent.com/92902914/192126964-e519b518-fa13-4e46-86a5-ac420be1f990.png)
 
 
-
-#Mapa con los cluster principales
+# Mapa con los cluster principales
 
 ![pathfinders_6_8_9_10](https://user-images.githubusercontent.com/92902914/192127060-ea9b3926-f0b7-49a0-8e5d-db3db8ededca.png)
 

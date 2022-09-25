@@ -28,7 +28,7 @@ https://www.gob.pe/institucion/ingemmet/informes-publicaciones/1423546-base-de-d
 
 La base de datos unificada de suelos superficiales contiene inicialmente 540 registros que posteriormente luego de la limpieza se reducen a 536 registros de muestras.
 
-* [Base de datos con limpieza de datos(Excel)]https://github.com/djrodriguezc1/Analisis-geoquimico-de-suelos-usando-metodos-no-supervisados/blob/main/Bases%20de%20datos/Base_suelos_limpia.xlsx()
+* [Base de datos con limpieza de datos(Excel)](https://github.com/djrodriguezc1/Analisis-geoquimico-de-suelos-usando-metodos-no-supervisados/blob/main/Bases%20de%20datos/Base_suelos_limpia.xlsx()
 
 # Mapa web con las 536 muestras geoquímicas de suelos
 

@@ -82,5 +82,5 @@ La base de datos unificada de suelos superficiales contiene inicialmente 540 reg
 
 # Informe final
 
-[Informe Final (pdf)](https://github.com/djrodriguezc1/Analisis-geoquimico-de-suelos-usando-metodos-no-supervisados/blob/main/Informe%20Final/Informe_final_grupo_8.pdf
-)
+[Informe Final (pdf)](https://github.com/djrodriguezc1/Analisis-geoquimico-de-suelos-usando-metodos-no-supervisados/blob/main/Informe%20final/Informe_final_grupo_8.pdf)
+

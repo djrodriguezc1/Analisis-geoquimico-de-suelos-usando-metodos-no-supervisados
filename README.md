@@ -75,10 +75,6 @@ La base de datos unificada de suelos superficiales contiene inicialmente 540 reg
 
 [Excel correlación entre cluster aglomerativo y variables](https://github.com/djrodriguezc1/Analisis-geoquimico-de-suelos-usando-metodos-no-supervisados/blob/main/Correlaci%C3%B3n%20cluster%20y%20variables/corr_mat13_g.xlsx)
 
-# Grafica plotly con los cluster aglomerativo 
-
-[Grafica 3d cluster aglomerativo](https://github.com/djrodriguezc1/Grafica-3d-cluster-aglomerativo/blob/main/agglom13.html)
-
 
 # Base de datos con los cluster finales
 
